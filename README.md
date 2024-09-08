@@ -28,7 +28,7 @@ The project uses Jupyter Notebooks for experimentation and analysis. The noteboo
 5. Train the model: Open ```model_CNN.ipynb``` and run the cells to train the model on the cleaned data
 
 6. Prepare test data: Place your test fish images in the ```test_data``` folder
-
+> e.g. ```test_data/test_bream_image.jpeg```, ```test_data/test_stonefish_image.png```
 7. Predict the model: Open ```test_data_preprocessing_and_testing.ipynb``` and run the cells to clean and resize test fish images, and predict their classes (species).
 
 ### Limitations
