@@ -11,7 +11,7 @@ The motivation behind this project arises from the need for casual fishermen to 
 
 ### Scope
 
-* Preprocessing images and setting up a data pipeline useing Keras ImageDataGenerator
+* Preprocessing images and setting up a data pipeline using Keras ImageDataGenerator
 * Building a simple CNN architecture from scratch
 * Evaluating model performance and identifying areas for improvement
 
